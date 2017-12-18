@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OSRSBot:jar">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="OSRSBot.jar">
+      <element id="module-output" name="OSRSBot" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/OSBot 2.4.147.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
